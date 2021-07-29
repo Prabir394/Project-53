@@ -1,0 +1,11 @@
+p {
+    font-size: 50px;
+    font-family:cursive;
+    color: red;
+}
+body {
+    text-align: center;
+    background-color: azure;
+    border-style: solid;
+    border-color: chocolate;
+}
